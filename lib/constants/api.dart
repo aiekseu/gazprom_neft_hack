@@ -1,0 +1,2 @@
+final yandexOAuthToken = 'AQAAAAAUHzVmAATuwcjwbPu9XkIDgEbGdbg7UCA';
+final yandexIAMToken = 't1.9euelZrNzI-YxpnHjJmNic2ezMjMiu3rnpWayJKPxpKJncuUk4-SyYvPmInl8_d9TiR0-e9GQjA9_N3z9z19IXT570ZCMD38.snHxNowyemXCwW4LNNKRrSnqexnZ09qDcjAe1D6_api7IpCkDyxsIMJTe33aOWaG8N_A4LS7OHiw_LW_SCzvCA';
