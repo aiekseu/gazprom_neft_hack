@@ -1,6 +1,5 @@
 # gazprom_hack
-
-we dont know what should we do
+we are 'Тима Украинских', let us win
 
 ## Getting Started
 
